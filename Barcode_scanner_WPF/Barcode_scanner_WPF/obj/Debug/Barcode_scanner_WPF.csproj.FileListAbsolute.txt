@@ -1,0 +1,15 @@
+C:\Users\Robben\source\repos\SICK_CLV260-101_BarcodeScanner\Barcode_scanner_WPF\Barcode_scanner_WPF\obj\Debug\Barcode_scanner_WPF.csprojAssemblyReference.cache
+C:\Users\Robben\source\repos\SICK_CLV260-101_BarcodeScanner\Barcode_scanner_WPF\Barcode_scanner_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Robben\source\repos\SICK_CLV260-101_BarcodeScanner\Barcode_scanner_WPF\Barcode_scanner_WPF\obj\Debug\App.g.cs
+C:\Users\Robben\source\repos\SICK_CLV260-101_BarcodeScanner\Barcode_scanner_WPF\Barcode_scanner_WPF\obj\Debug\Barcode_scanner_WPF_MarkupCompile.cache
+C:\Users\Robben\source\repos\SICK_CLV260-101_BarcodeScanner\Barcode_scanner_WPF\Barcode_scanner_WPF\obj\Debug\Barcode_scanner_WPF_MarkupCompile.lref
+C:\Users\Robben\source\repos\SICK_CLV260-101_BarcodeScanner\Barcode_scanner_WPF\Barcode_scanner_WPF\bin\Debug\Barcode_scanner_WPF.exe.config
+C:\Users\Robben\source\repos\SICK_CLV260-101_BarcodeScanner\Barcode_scanner_WPF\Barcode_scanner_WPF\bin\Debug\Barcode_scanner_WPF.exe
+C:\Users\Robben\source\repos\SICK_CLV260-101_BarcodeScanner\Barcode_scanner_WPF\Barcode_scanner_WPF\bin\Debug\Barcode_scanner_WPF.pdb
+C:\Users\Robben\source\repos\SICK_CLV260-101_BarcodeScanner\Barcode_scanner_WPF\Barcode_scanner_WPF\obj\Debug\MainWindow.baml
+C:\Users\Robben\source\repos\SICK_CLV260-101_BarcodeScanner\Barcode_scanner_WPF\Barcode_scanner_WPF\obj\Debug\Barcode_scanner_WPF.g.resources
+C:\Users\Robben\source\repos\SICK_CLV260-101_BarcodeScanner\Barcode_scanner_WPF\Barcode_scanner_WPF\obj\Debug\Barcode_scanner_WPF.Properties.Resources.resources
+C:\Users\Robben\source\repos\SICK_CLV260-101_BarcodeScanner\Barcode_scanner_WPF\Barcode_scanner_WPF\obj\Debug\Barcode_scanner_WPF.csproj.GenerateResource.cache
+C:\Users\Robben\source\repos\SICK_CLV260-101_BarcodeScanner\Barcode_scanner_WPF\Barcode_scanner_WPF\obj\Debug\Barcode_scanner_WPF.csproj.CoreCompileInputs.cache
+C:\Users\Robben\source\repos\SICK_CLV260-101_BarcodeScanner\Barcode_scanner_WPF\Barcode_scanner_WPF\obj\Debug\Barcode_scanner_WPF.exe
+C:\Users\Robben\source\repos\SICK_CLV260-101_BarcodeScanner\Barcode_scanner_WPF\Barcode_scanner_WPF\obj\Debug\Barcode_scanner_WPF.pdb
